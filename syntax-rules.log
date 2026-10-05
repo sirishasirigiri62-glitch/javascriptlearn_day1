@@ -1,0 +1,11 @@
+let x=5;
+undefined
+let y=7;
+undefined
+let z=x+y
+undefined
+console.log(z)
+VM350:1 12
+undefined
+5+12
+17
