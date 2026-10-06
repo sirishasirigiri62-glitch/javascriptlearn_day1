@@ -1,0 +1,33 @@
+let age=20;
+if(age>=18){
+    console.log("you can vote");
+}
+VM1506:3 you can vote
+undefined
+age=16
+16
+let age=16
+if(age>=18){
+    console.log("vote")
+}
+undefined
+else{
+VM1726:1 Uncaught SyntaxError: Unexpected token 'else' (at VM1726:1:1)
+let age=16
+if(age>=18){
+    console.log("vote")
+}
+else{
+    console.log("dont vote")
+}
+VM1858:6 dont vote
+undefined
+let marks=45;
+undefined
+if(marks>=50){
+    console.log("A+")
+}else if(marks>=40){
+    console.log("A")}
+else if(marks>=30){
+    console.log("B")}
+VM2268:4 A
